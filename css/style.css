@@ -59,6 +59,13 @@ p {
     background-position: center;
 }
 
+#caption {
+    font-size: x-small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top: -20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
